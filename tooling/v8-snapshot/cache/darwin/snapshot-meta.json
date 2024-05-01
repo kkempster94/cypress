@@ -269,7 +269,6 @@
     "./node_modules/delayed-stream/lib/delayed_stream.js",
     "./node_modules/depd/index.js",
     "./node_modules/duplexify/index.js",
-    "./node_modules/ejs/lib/ejs.js",
     "./node_modules/electron-is-dev/index.js",
     "./node_modules/encoding/node_modules/iconv-lite/encodings/dbcs-codec.js",
     "./node_modules/encoding/node_modules/iconv-lite/encodings/index.js",
@@ -659,6 +658,7 @@
     "./packages/data-context/node_modules/dataloader/index.js",
     "./packages/data-context/node_modules/debug/src/browser.js",
     "./packages/data-context/node_modules/debug/src/index.js",
+    "./packages/data-context/node_modules/ejs/lib/ejs.js",
     "./packages/data-context/node_modules/execa/lib/errname.js",
     "./packages/data-context/node_modules/fs-extra/lib/fs/index.js",
     "./packages/data-context/node_modules/fs-extra/lib/index.js",
@@ -1762,8 +1762,6 @@
     "./node_modules/ecc-jsbn/lib/ec.js",
     "./node_modules/ecc-jsbn/lib/sec.js",
     "./node_modules/ee-first/index.js",
-    "./node_modules/ejs/lib/utils.js",
-    "./node_modules/ejs/package.json",
     "./node_modules/electron-context-menu/index.js",
     "./node_modules/electron-dl/index.js",
     "./node_modules/electron-to-chromium/versions.js",
@@ -3712,6 +3710,8 @@
     "./packages/data-context/node_modules/cross-spawn/lib/util/resolveCommand.js",
     "./packages/data-context/node_modules/debug/node_modules/ms/index.js",
     "./packages/data-context/node_modules/debug/src/common.js",
+    "./packages/data-context/node_modules/ejs/lib/utils.js",
+    "./packages/data-context/node_modules/ejs/package.json",
     "./packages/data-context/node_modules/execa/index.js",
     "./packages/data-context/node_modules/execa/lib/stdio.js",
     "./packages/data-context/node_modules/fs-extra/lib/copy-sync/copy-sync.js",
@@ -4355,5 +4355,5 @@
     "./tooling/v8-snapshot/cache/darwin/snapshot-entry.js"
   ],
   "deferredHashFile": "yarn.lock",
-  "deferredHash": "f65cd50c7510e7b0cb38b3c9d7f6962bf1c283406414c102893bc28b6afa0c5d"
+  "deferredHash": "ffbde9b3bfe654c5d5a320536679cd6d4255042a31f5a2c9cef93f0ae1c6fced"
 }
