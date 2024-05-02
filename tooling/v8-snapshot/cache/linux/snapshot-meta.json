@@ -4096,6 +4096,8 @@
     "./packages/server/lib/browsers/webkit-automation.ts",
     "./packages/server/lib/browsers/webkit.ts",
     "./packages/server/lib/cloud/api/http_error.ts",
+    "./packages/server/lib/cloud/api/network_error.ts",
+    "./packages/server/lib/cloud/api/scrub_url.ts",
     "./packages/server/lib/cloud/artifacts/artifact.ts",
     "./packages/server/lib/cloud/artifacts/file_upload_strategy.ts",
     "./packages/server/lib/cloud/artifacts/upload_artifacts.ts",
@@ -4358,5 +4360,5 @@
     "./tooling/v8-snapshot/cache/linux/snapshot-entry.js"
   ],
   "deferredHashFile": "yarn.lock",
-  "deferredHash": "f65cd50c7510e7b0cb38b3c9d7f6962bf1c283406414c102893bc28b6afa0c5d"
+  "deferredHash": "d619d1814130561072a600c893d67c3817d5ef0e47576076362fd2779ea0aa04"
 }
