@@ -33,7 +33,6 @@ eslint-plugin-json-format
 @typescript-eslint/parser
 @typescript-eslint/eslint-plugin
 eslint-plugin-mocha
-eslint-plugin-import
 
 # if you have react/jsx files
 eslint-plugin-react
